@@ -1,0 +1,1 @@
+make ARCH=riscv CROSS_COMPILE=/home/alberto/Desktop/buildroot/output/host/bin/riscv64-buildroot-linux-gnu-
